@@ -7,6 +7,7 @@
 ---
 
 ![Location](https://img.shields.io/badge/📍-Jalandhar%2C+Punjab%2C+India-6366f1?style=flat-square)
+![Phone](https://img.shields.io/badge/📱-%2B91+9876710461-ec4899?style=flat-square)
 ![Status](https://img.shields.io/badge/🎓-MCA+1st+Year+Student-8b5cf6?style=flat-square)
 ![Open To Work](https://img.shields.io/badge/💼-Open+To+Opportunities-7c3aed?style=flat-square)
 
