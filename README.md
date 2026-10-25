@@ -141,6 +141,9 @@ A multi-tool application concept for bringing AI-assisted creator utilities toge
 - JWT login and protected routes
 
 **Stack:** React · Node.js · Express · MongoDB · JWT
+[↗ View repository](https://github.com/Ridhimaa0827/ai-creator-hub-client)
+[↗ View repository](https://github.com/Ridhimaa0827/ai-creator-hub-server)
+[↗ View project](https://vercel.com/ridhimaa0827s-projects/ai-creator-hub-client)
 
 </td>
 </tr>
