@@ -188,7 +188,7 @@ I'm open to connecting with developers, learning from new projects, and explorin
 
 - **LinkedIn:** [ridhima-sharma27](https://www.linkedin.com/in/ridhima-sharma27)
 - **GitHub:** [Ridhimaa0827](https://github.com/Ridhimaa0827)
-- **Portfolio:** [portfolio-ridhima.vercel.app](https://portfolio-ridhima.vercel.app)
+- **Portfolio:** [portfolio-ridhima.vercel.app](https://ridhima-portfolio-rym8.vercel.app/)
 - **Email:** [ridhimasharma21150@gmail.com](mailto:ridhimasharma21150@gmail.com)
 
 <div align="center">
